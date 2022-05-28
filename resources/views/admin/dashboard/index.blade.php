@@ -1,4 +1,3 @@
-<?php
 @extends('admin.app')
 @section('title') Dashboard @endsection
 @section('content')
@@ -46,3 +45,4 @@
         </div>
     </div>
 @endsection
+
